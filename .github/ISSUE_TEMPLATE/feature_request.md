@@ -1,20 +1,37 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: 기능 요청
+about: 새로운 기능을 추가하거나 기존 기능(성능 포함)을 개선할 때 사용해주세요.
+title: "[FEATURE] "
+labels: feat
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## #️⃣ 요청 유형
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+> 해당되는 항목을 선택해주세요.
+- [ ] 새로운 기능 추가
+- [ ] 기존 기능 개선
+- [ ] 성능 개선
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## #️⃣ 어떤 기능인가요?
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+> 추가하려는 기능 또는 개선하려는 부분에 대해 간결하게 설명해주세요.
+
+## #️⃣ 이 기능이 필요한 이유는 무엇인가요?
+
+> 이 기능이 왜 필요한지, 또는 개선/성능 향상이 필요한 이유에 대해 설명해주세요.
+
+## 구현 방안 (선택)
+
+> 이 기능을 어떻게 구현할 수 있을지에 대한 아이디어를 간단히 설명해주세요.
+
+## #️⃣ 작업 상세 내용
+
+- [ ] TODO
+- [ ] TODO
+- [ ] TODO
+
+## 📎 참고할만한 자료 (선택)
+
+> 관련 문서, 스크린샷, 또는 예시 등이 있다면 여기에 첨부해주세요.
